@@ -1,4 +1,4 @@
-# GitHub-Portfolio
+# Portfolio
 # 📊 Data Analysis & Finance Portfolio
 Hello, I’m Thu Ha!  
 I aim to become a **financial and data analyst**, and this portfolio highlights my projects using **SQL, Excel, Power BI, and Tableau**.

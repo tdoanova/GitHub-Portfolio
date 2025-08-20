@@ -9,3 +9,7 @@ I aim to become a **financial and data analyst**, and this portfolio highlights 
 - **Power BI & Tableau**: dashboards and visualizations  
 - **Finance**: Budgeting, variance analysis, financial statement analysis
 - **Accounting**: Solid academic knowledge of financial accounting and reporting
+
+## 📫 Contact
+- LinkedIn: www.linkedin.com/in/thu-ha-d-a695731b3
+- Email: zuzka.doanova.9x@email.cz
